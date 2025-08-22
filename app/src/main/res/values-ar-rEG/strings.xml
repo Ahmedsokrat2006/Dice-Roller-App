@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">رامي النرد</string>
+    <string name="app_title">برنامج القاء النرد</string>
+    <string name="defult_result">"النتيجة: 1"</string>
+    <string name="history_defult1">النرد الاول\nلا يوجد رميات سابقه</string>
+    <string name="history_defult2">النرد الثاني\nلا يوجد رميات سابقه</string>
+    <string name="roll">ارم</string>
+    <string name="color">اللون</string>
+    <string name="lastresults">اخر نتائج:</string>
+    <string name="dice">النرد</string>
+    <string name="result">النتيجة:</string>
+    <string name="dices">اللون</string>
+    <string name="red">أحمر</string>
+    <string name="black">أسود</string>
+    <string name="blue">أزرق</string>
+    <string name="green">أخضر</string>
+
+</resources>

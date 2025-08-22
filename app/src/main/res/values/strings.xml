@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="app_title">Dice rolling app</string>
+    <string name="defult_result">Result: 1</string>
+    <string name="history_defult1">Dice 1 \n No history</string>
+    <string name="history_defult2">Dice 2 \n No history</string>
+    <string name="roll">Roll</string>
+    <string name="color">Color</string>
+    <string name="lastresults">Last results:</string>
+    <string name="dice">Dice</string>
+    <string name="result">Result:</string>
+    <string name="dices">dices</string>
+    <string name="red">Red</string>
+    <string name="black">Black</string>
+    <string name="blue">Blue</string>
+    <string name="green">Green</string>
+</resources>
